@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Every coin and every story has two sides ,one side is shlimmery and other is dark.
 This story also has the same context, the truth will unfold .
 =======
+=======
+>>>>>>> 3f70522bbc17d93bba4a30dd10689a181235ab2f
 Every coin and every story has two faces, one is shimmery, and the other is dispirited. But have you ever thought of the third face, which opens up a whole new dimension?
 This story also has the same context.
 >>>>>>> 0809842761ef57868830cb548010b009fb4d411d
